@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\jjwan\source\repos\algo_youtube\SCC\SCC\소스.cpp(19,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jjwan\source\repos\algo_youtube\SCC\SCC\소스.cpp(62,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jjwan\source\repos\algo_youtube\SCC\SCC\소스.cpp(64,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SCC.vcxproj -> C:\Users\jjwan\source\repos\algo_youtube\SCC\Debug\SCC.exe

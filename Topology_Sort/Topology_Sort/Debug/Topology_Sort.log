@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\jjwan\source\repos\algo_youtube\Topology_Sort\Topology_Sort\소스.cpp(29,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Topology_Sort.vcxproj -> C:\Users\jjwan\source\repos\algo_youtube\Topology_Sort\Debug\Topology_Sort.exe
